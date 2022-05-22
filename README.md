@@ -1,7 +1,7 @@
 # LAV
 ![teaser](assets/teaser.svg)
-> [**Learning from All Vehicles**](https://dotchen.github.io/LAV/)    
-> Dian Chen, Philipp Kr&auml;henb&uuml;hl         
+> [**Learning from All Vehicles**](https://dotchen.github.io/LAV/)
+> Dian Chen, Philipp Kr&auml;henb&uuml;hl
 > _CVPR 2022_ (also [arXiV 2203.11934](http://arxiv.org/abs/2203.11934))
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/learning-from-all-vehicles/autonomous-driving-on-carla-leaderboard)](https://paperswithcode.com/sota/autonomous-driving-on-carla-leaderboard?p=learning-from-all-vehicles)
@@ -39,7 +39,7 @@ We additionally provide examplery trained weights in the `weights` folder if you
 They are trained on Town01, 03, 04, 06.
 Make sure you are launching CARLA with the `-vulkan` flag.
 
-**Note**: Please note that this is just example weights for quickstart purposes. 
+**Note**: Please note that this is just example weights for quickstart purposes.
 If you directly submit this to leaderboard you will not get 61 DS.
 Full leaderboard codes will be released later.
 
@@ -60,3 +60,5 @@ The ERFNet codes are taken from the official ERFNet repo.
 
 ## License
 This repo is released under the Apache 2.0 License (please refer to the LICENSE file for details).
+
+hbvhvhh
